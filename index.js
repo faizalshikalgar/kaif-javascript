@@ -740,6 +740,4 @@
 // console.log(oldnum);
 // console.log(oldnum + 10);
 
-// kaif
-
 
